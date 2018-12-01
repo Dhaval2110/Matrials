@@ -9,3 +9,5 @@ https://www.melbpc.org.au/wp-content/uploads/2017/07/learn-python-in-7-days.pdf
 https://www.techgig.com/skilltest/python
 
 https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
+
+https://www.wisdomjobs.com/e-university/python-interview-questions.html
