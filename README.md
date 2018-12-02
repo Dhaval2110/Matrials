@@ -11,3 +11,5 @@ https://www.techgig.com/skilltest/python
 https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
 
 https://www.wisdomjobs.com/e-university/python-interview-questions.html
+
+https://pymbook.readthedocs.io/en/latest/
