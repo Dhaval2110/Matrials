@@ -13,3 +13,5 @@ https://www.cs.uky.edu/~keen/115/Haltermanpythonbook.pdf
 https://www.wisdomjobs.com/e-university/python-interview-questions.html
 
 https://pymbook.readthedocs.io/en/latest/
+
+https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
