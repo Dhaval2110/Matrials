@@ -1,0 +1,127 @@
+DHAVAL@DhavalMUFC MINGW64 ~/Documents (master)
+1 )
+$ git init
+Reinitialized existing Git repository in C:/Users/DHAVAL/Documents/.git/
+
+2)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents (master)
+$ git clone https://github.com/Dhaval2110/Dhaval.git
+Cloning into 'Dhaval'...
+warning: You appear to have cloned an empty repository.
+
+3)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        CyberLink/
+        Dhaval Resume.pdf
+        Krishna_Manmohna-wappor.com.mp3
+        Notes/
+        OneNote Notebooks/
+        Photo006ja.jpg
+        desktop.ini
+        hp.system.package.metadata/
+        panel1.dwg
+        panelbox.dwg
+        tr.bmp
+        x264/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+4)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents (master)
+$ cd dhaval
+
+5)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        Non_Repeated.c
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+6)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git add Non_Repeated.c
+
+7)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   Non_Repeated.c
+
+
+8)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git commit -m "My first"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'DHAVAL@DhavalMUFC.(none)')
+
+9)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git config --global user.email "mehtadhaval401@gmail.com"
+
+10)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git config --global user.name "Dhaval"
+
+11)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git commit -m "My first"
+[master (root-commit) ebdb90e] My first
+ 1 file changed, 31 insertions(+)
+ create mode 100644 Non_Repeated.c
+
+12)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+
+13)
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$ git push
+fatal: HttpRequestException encountered.
+   An error occurred while sending the request.
+Username for 'https://github.com': mehtadhaval401@gmail.com
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 510 bytes | 255.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/Dhaval2110/Dhaval.git
+ * [new branch]      master -> master
+
+DHAVAL@DhavalMUFC MINGW64 ~/Documents/dhaval (master)
+$
