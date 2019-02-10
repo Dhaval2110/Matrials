@@ -15,3 +15,5 @@ https://www.wisdomjobs.com/e-university/python-interview-questions.html
 https://pymbook.readthedocs.io/en/latest/
 
 https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
+
+https://www.tecmint.com/linux-commands-cheat-sheet/
