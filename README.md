@@ -17,3 +17,7 @@ https://pymbook.readthedocs.io/en/latest/
 https://www.pythonforbeginners.com/code-snippets-source-code/python-code-examples
 
 https://www.tecmint.com/linux-commands-cheat-sheet/
+
+https://data-flair.training/blogs/python-tutorials-home/
+
+https://www.programiz.com/python-programming/
