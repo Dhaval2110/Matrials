@@ -21,3 +21,6 @@ https://www.tecmint.com/linux-commands-cheat-sheet/
 https://data-flair.training/blogs/python-tutorials-home/
 
 https://www.programiz.com/python-programming/
+
+https://www.techbeamers.com/python-interview-questions-programmers/
+
