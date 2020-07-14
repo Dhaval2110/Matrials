@@ -24,3 +24,4 @@ https://www.programiz.com/python-programming/
 
 https://www.techbeamers.com/python-interview-questions-programmers/
 
+https://okayguru.blogspot.com/2020/06/python-interview-question-question-bank.html?m=1
